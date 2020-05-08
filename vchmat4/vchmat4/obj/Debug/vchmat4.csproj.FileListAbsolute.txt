@@ -1,0 +1,10 @@
+C:\Users\Соня\source\repos\vchmat4\vchmat4\bin\Debug\vchmat4.exe.config
+C:\Users\Соня\source\repos\vchmat4\vchmat4\bin\Debug\vchmat4.exe
+C:\Users\Соня\source\repos\vchmat4\vchmat4\bin\Debug\vchmat4.pdb
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.csprojAssemblyReference.cache
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.Form1.resources
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.Properties.Resources.resources
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.csproj.GenerateResource.cache
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.csproj.CoreCompileInputs.cache
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.exe
+C:\Users\Соня\source\repos\vchmat4\vchmat4\obj\Debug\vchmat4.pdb
